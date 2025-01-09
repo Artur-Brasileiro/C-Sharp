@@ -1,0 +1,14 @@
+D:\Programação\Projetos C#\Array e Listas\bin\Debug\net9.0\Array e Listas.exe
+D:\Programação\Projetos C#\Array e Listas\bin\Debug\net9.0\Array e Listas.deps.json
+D:\Programação\Projetos C#\Array e Listas\bin\Debug\net9.0\Array e Listas.runtimeconfig.json
+D:\Programação\Projetos C#\Array e Listas\bin\Debug\net9.0\Array e Listas.dll
+D:\Programação\Projetos C#\Array e Listas\bin\Debug\net9.0\Array e Listas.pdb
+D:\Programação\Projetos C#\Array e Listas\obj\Debug\net9.0\Array e Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos C#\Array e Listas\obj\Debug\net9.0\Array e Listas.AssemblyInfoInputs.cache
+D:\Programação\Projetos C#\Array e Listas\obj\Debug\net9.0\Array e Listas.AssemblyInfo.cs
+D:\Programação\Projetos C#\Array e Listas\obj\Debug\net9.0\Array e Listas.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos C#\Array e Listas\obj\Debug\net9.0\Array e Listas.dll
+D:\Programação\Projetos C#\Array e Listas\obj\Debug\net9.0\refint\Array e Listas.dll
+D:\Programação\Projetos C#\Array e Listas\obj\Debug\net9.0\Array e Listas.pdb
+D:\Programação\Projetos C#\Array e Listas\obj\Debug\net9.0\Array e Listas.genruntimeconfig.cache
+D:\Programação\Projetos C#\Array e Listas\obj\Debug\net9.0\ref\Array e Listas.dll

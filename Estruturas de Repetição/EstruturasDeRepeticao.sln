@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estruturas de Repetição", "Estruturas de Repetição.csproj", "{0E4D8CD1-45A4-449B-8299-CEC7CAC0AC98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeticaoCommon", "RepeticaoCommon\RepeticaoCommon.csproj", "{32FCA967-2EBB-4AD7-9D1E-AF250CCCED60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E4D8CD1-45A4-449B-8299-CEC7CAC0AC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4D8CD1-45A4-449B-8299-CEC7CAC0AC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4D8CD1-45A4-449B-8299-CEC7CAC0AC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4D8CD1-45A4-449B-8299-CEC7CAC0AC98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FCA967-2EBB-4AD7-9D1E-AF250CCCED60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FCA967-2EBB-4AD7-9D1E-AF250CCCED60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FCA967-2EBB-4AD7-9D1E-AF250CCCED60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FCA967-2EBB-4AD7-9D1E-AF250CCCED60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

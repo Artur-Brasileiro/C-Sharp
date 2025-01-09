@@ -1,0 +1,14 @@
+D:\Programação\Projetos C#\Estruturas de Repetição\bin\Debug\net9.0\Estruturas de Repetição.exe
+D:\Programação\Projetos C#\Estruturas de Repetição\bin\Debug\net9.0\Estruturas de Repetição.deps.json
+D:\Programação\Projetos C#\Estruturas de Repetição\bin\Debug\net9.0\Estruturas de Repetição.runtimeconfig.json
+D:\Programação\Projetos C#\Estruturas de Repetição\bin\Debug\net9.0\Estruturas de Repetição.dll
+D:\Programação\Projetos C#\Estruturas de Repetição\bin\Debug\net9.0\Estruturas de Repetição.pdb
+D:\Programação\Projetos C#\Estruturas de Repetição\obj\Debug\net9.0\Estruturas de Repetição.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos C#\Estruturas de Repetição\obj\Debug\net9.0\Estruturas de Repetição.AssemblyInfoInputs.cache
+D:\Programação\Projetos C#\Estruturas de Repetição\obj\Debug\net9.0\Estruturas de Repetição.AssemblyInfo.cs
+D:\Programação\Projetos C#\Estruturas de Repetição\obj\Debug\net9.0\Estruturas de Repetição.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos C#\Estruturas de Repetição\obj\Debug\net9.0\Estruturas de Repetição.dll
+D:\Programação\Projetos C#\Estruturas de Repetição\obj\Debug\net9.0\refint\Estruturas de Repetição.dll
+D:\Programação\Projetos C#\Estruturas de Repetição\obj\Debug\net9.0\Estruturas de Repetição.pdb
+D:\Programação\Projetos C#\Estruturas de Repetição\obj\Debug\net9.0\Estruturas de Repetição.genruntimeconfig.cache
+D:\Programação\Projetos C#\Estruturas de Repetição\obj\Debug\net9.0\ref\Estruturas de Repetição.dll
