@@ -1,0 +1,2 @@
+linha 1 do texto arquivosLeituras
+linha 2 do texto arquivosLeituras - assunto bla bla bla

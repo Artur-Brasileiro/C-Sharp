@@ -1,0 +1,14 @@
+D:\Programação\Projetos C#\Exceções e Coleções\obj\Debug\net9.0\Exceções e Coleções.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos C#\Exceções e Coleções\obj\Debug\net9.0\Exceções e Coleções.AssemblyInfoInputs.cache
+D:\Programação\Projetos C#\Exceções e Coleções\obj\Debug\net9.0\Exceções e Coleções.AssemblyInfo.cs
+D:\Programação\Projetos C#\Exceções e Coleções\obj\Debug\net9.0\Exceções e Coleções.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos C#\Exceções e Coleções\bin\Debug\net9.0\Exceções e Coleções.exe
+D:\Programação\Projetos C#\Exceções e Coleções\bin\Debug\net9.0\Exceções e Coleções.deps.json
+D:\Programação\Projetos C#\Exceções e Coleções\bin\Debug\net9.0\Exceções e Coleções.runtimeconfig.json
+D:\Programação\Projetos C#\Exceções e Coleções\bin\Debug\net9.0\Exceções e Coleções.dll
+D:\Programação\Projetos C#\Exceções e Coleções\bin\Debug\net9.0\Exceções e Coleções.pdb
+D:\Programação\Projetos C#\Exceções e Coleções\obj\Debug\net9.0\Exceções e Coleções.dll
+D:\Programação\Projetos C#\Exceções e Coleções\obj\Debug\net9.0\refint\Exceções e Coleções.dll
+D:\Programação\Projetos C#\Exceções e Coleções\obj\Debug\net9.0\Exceções e Coleções.pdb
+D:\Programação\Projetos C#\Exceções e Coleções\obj\Debug\net9.0\Exceções e Coleções.genruntimeconfig.cache
+D:\Programação\Projetos C#\Exceções e Coleções\obj\Debug\net9.0\ref\Exceções e Coleções.dll
