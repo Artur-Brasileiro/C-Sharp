@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Fila, Pilha, Dicionario/1.0.0": {
+        "runtime": {
+          "Fila, Pilha, Dicionario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fila, Pilha, Dicionario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

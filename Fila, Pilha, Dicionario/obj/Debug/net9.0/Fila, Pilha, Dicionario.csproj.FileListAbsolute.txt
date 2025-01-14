@@ -1,0 +1,14 @@
+D:\Programação\Projetos C#\Fila, Pilha, Dicionario\bin\Debug\net9.0\Fila, Pilha, Dicionario.exe
+D:\Programação\Projetos C#\Fila, Pilha, Dicionario\bin\Debug\net9.0\Fila, Pilha, Dicionario.deps.json
+D:\Programação\Projetos C#\Fila, Pilha, Dicionario\bin\Debug\net9.0\Fila, Pilha, Dicionario.runtimeconfig.json
+D:\Programação\Projetos C#\Fila, Pilha, Dicionario\bin\Debug\net9.0\Fila, Pilha, Dicionario.dll
+D:\Programação\Projetos C#\Fila, Pilha, Dicionario\bin\Debug\net9.0\Fila, Pilha, Dicionario.pdb
+D:\Programação\Projetos C#\Fila, Pilha, Dicionario\obj\Debug\net9.0\Fila, Pilha, Dicionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos C#\Fila, Pilha, Dicionario\obj\Debug\net9.0\Fila, Pilha, Dicionario.AssemblyInfoInputs.cache
+D:\Programação\Projetos C#\Fila, Pilha, Dicionario\obj\Debug\net9.0\Fila, Pilha, Dicionario.AssemblyInfo.cs
+D:\Programação\Projetos C#\Fila, Pilha, Dicionario\obj\Debug\net9.0\Fila, Pilha, Dicionario.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos C#\Fila, Pilha, Dicionario\obj\Debug\net9.0\Fila, Pilha, Dicionario.dll
+D:\Programação\Projetos C#\Fila, Pilha, Dicionario\obj\Debug\net9.0\refint\Fila, Pilha, Dicionario.dll
+D:\Programação\Projetos C#\Fila, Pilha, Dicionario\obj\Debug\net9.0\Fila, Pilha, Dicionario.pdb
+D:\Programação\Projetos C#\Fila, Pilha, Dicionario\obj\Debug\net9.0\Fila, Pilha, Dicionario.genruntimeconfig.cache
+D:\Programação\Projetos C#\Fila, Pilha, Dicionario\obj\Debug\net9.0\ref\Fila, Pilha, Dicionario.dll
