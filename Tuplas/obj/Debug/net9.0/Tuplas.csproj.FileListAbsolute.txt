@@ -1,0 +1,14 @@
+D:\Programação\Projetos C#\Tuplas\bin\Debug\net9.0\Tuplas.exe
+D:\Programação\Projetos C#\Tuplas\bin\Debug\net9.0\Tuplas.deps.json
+D:\Programação\Projetos C#\Tuplas\bin\Debug\net9.0\Tuplas.runtimeconfig.json
+D:\Programação\Projetos C#\Tuplas\bin\Debug\net9.0\Tuplas.dll
+D:\Programação\Projetos C#\Tuplas\bin\Debug\net9.0\Tuplas.pdb
+D:\Programação\Projetos C#\Tuplas\obj\Debug\net9.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos C#\Tuplas\obj\Debug\net9.0\Tuplas.AssemblyInfoInputs.cache
+D:\Programação\Projetos C#\Tuplas\obj\Debug\net9.0\Tuplas.AssemblyInfo.cs
+D:\Programação\Projetos C#\Tuplas\obj\Debug\net9.0\Tuplas.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos C#\Tuplas\obj\Debug\net9.0\Tuplas.dll
+D:\Programação\Projetos C#\Tuplas\obj\Debug\net9.0\refint\Tuplas.dll
+D:\Programação\Projetos C#\Tuplas\obj\Debug\net9.0\Tuplas.pdb
+D:\Programação\Projetos C#\Tuplas\obj\Debug\net9.0\Tuplas.genruntimeconfig.cache
+D:\Programação\Projetos C#\Tuplas\obj\Debug\net9.0\ref\Tuplas.dll
