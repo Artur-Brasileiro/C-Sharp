@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dIznij4rm68=",
+  "success": true,
+  "projectFilePath": "D:\\Programação\\Projetos C#\\Serialização (JSON)\\Serialização (JSON).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artur\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

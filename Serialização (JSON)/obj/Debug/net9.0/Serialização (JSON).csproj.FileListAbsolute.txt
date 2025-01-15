@@ -1,0 +1,17 @@
+D:\Programação\Projetos C#\Serialização (JSON)\bin\Debug\net9.0\Serialização (JSON).exe
+D:\Programação\Projetos C#\Serialização (JSON)\bin\Debug\net9.0\Serialização (JSON).deps.json
+D:\Programação\Projetos C#\Serialização (JSON)\bin\Debug\net9.0\Serialização (JSON).runtimeconfig.json
+D:\Programação\Projetos C#\Serialização (JSON)\bin\Debug\net9.0\Serialização (JSON).dll
+D:\Programação\Projetos C#\Serialização (JSON)\bin\Debug\net9.0\Serialização (JSON).pdb
+D:\Programação\Projetos C#\Serialização (JSON)\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Programação\Projetos C#\Serialização (JSON)\obj\Debug\net9.0\Serialização (JSON).csproj.AssemblyReference.cache
+D:\Programação\Projetos C#\Serialização (JSON)\obj\Debug\net9.0\Serialização (JSON).GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos C#\Serialização (JSON)\obj\Debug\net9.0\Serialização (JSON).AssemblyInfoInputs.cache
+D:\Programação\Projetos C#\Serialização (JSON)\obj\Debug\net9.0\Serialização (JSON).AssemblyInfo.cs
+D:\Programação\Projetos C#\Serialização (JSON)\obj\Debug\net9.0\Serialização (JSON).csproj.CoreCompileInputs.cache
+D:\Programação\Projetos C#\Serialização (JSON)\obj\Debug\net9.0\Serializ.4CD165A2.Up2Date
+D:\Programação\Projetos C#\Serialização (JSON)\obj\Debug\net9.0\Serialização (JSON).dll
+D:\Programação\Projetos C#\Serialização (JSON)\obj\Debug\net9.0\refint\Serialização (JSON).dll
+D:\Programação\Projetos C#\Serialização (JSON)\obj\Debug\net9.0\Serialização (JSON).pdb
+D:\Programação\Projetos C#\Serialização (JSON)\obj\Debug\net9.0\Serialização (JSON).genruntimeconfig.cache
+D:\Programação\Projetos C#\Serialização (JSON)\obj\Debug\net9.0\ref\Serialização (JSON).dll
