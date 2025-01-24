@@ -1,0 +1,14 @@
+D:\Programação\Projetos C#\POO na Prática\bin\Debug\net9.0\POO na Prática.exe
+D:\Programação\Projetos C#\POO na Prática\bin\Debug\net9.0\POO na Prática.deps.json
+D:\Programação\Projetos C#\POO na Prática\bin\Debug\net9.0\POO na Prática.runtimeconfig.json
+D:\Programação\Projetos C#\POO na Prática\bin\Debug\net9.0\POO na Prática.dll
+D:\Programação\Projetos C#\POO na Prática\bin\Debug\net9.0\POO na Prática.pdb
+D:\Programação\Projetos C#\POO na Prática\obj\Debug\net9.0\POO na Prática.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos C#\POO na Prática\obj\Debug\net9.0\POO na Prática.AssemblyInfoInputs.cache
+D:\Programação\Projetos C#\POO na Prática\obj\Debug\net9.0\POO na Prática.AssemblyInfo.cs
+D:\Programação\Projetos C#\POO na Prática\obj\Debug\net9.0\POO na Prática.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos C#\POO na Prática\obj\Debug\net9.0\POO na Prática.dll
+D:\Programação\Projetos C#\POO na Prática\obj\Debug\net9.0\refint\POO na Prática.dll
+D:\Programação\Projetos C#\POO na Prática\obj\Debug\net9.0\POO na Prática.pdb
+D:\Programação\Projetos C#\POO na Prática\obj\Debug\net9.0\POO na Prática.genruntimeconfig.cache
+D:\Programação\Projetos C#\POO na Prática\obj\Debug\net9.0\ref\POO na Prática.dll
