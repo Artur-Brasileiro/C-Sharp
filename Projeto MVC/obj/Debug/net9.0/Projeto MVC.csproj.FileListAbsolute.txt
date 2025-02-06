@@ -1,0 +1,231 @@
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\Projeto MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\Projeto MVC.AssemblyInfoInputs.cache
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\Projeto MVC.AssemblyInfo.cs
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\Projeto MVC.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\Projeto MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\Projeto MVC.RazorAssemblyInfo.cache
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\Projeto MVC.RazorAssemblyInfo.cs
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\appsettings.Development.json
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\appsettings.json
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Projeto MVC.staticwebassets.runtime.json
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Projeto MVC.staticwebassets.endpoints.json
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Projeto MVC.exe
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Projeto MVC.deps.json
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Projeto MVC.runtimeconfig.json
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Projeto MVC.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Projeto MVC.pdb
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\scopedcss\bundle\Projeto MVC.styles.css
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\scopedcss\projectbundle\Projeto MVC.bundle.scp.css
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\m1xm2iun54-b9sayid5wm.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\y82he82h98-61n19gt1b8.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\7q1y548swd-xtxxf3hu2r.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\s56ktfoyvm-bqjiyaj88i.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\jtzvwilwcd-c2jlpeoesf.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\53il9pliwt-erw9l3u2r3.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\e13akrocmk-aexeepp0ev.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\btrggfjz0b-d7shbmvgxk.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\2uw44ok24i-ausgxo2sd3.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\k0sgrmb68a-k8d9w2qqmf.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\w0bji9oafr-cosvhxvwiu.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\uwopkf8t9t-ub07r2b239.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\ugi8wqh5pk-fvhpjtyr6v.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\kcy4roia2l-b7pk76d08c.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\7tnw8goobd-fsbi9cje9m.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\zmhbc8mpi2-rzd6atqjts.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\qcrygt77l6-ee0r1s7dh0.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\axc432mvsy-dxx9fxp4il.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\xjzfft2c2c-jd9uben2k1.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\kucxlinthb-khv3u5hwcm.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\ky77mgxyc2-r4e9w2rdcm.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\heuuugmp2y-lcd1t2u6c8.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\qfqw75vk0e-c2oey78nd0.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\547aism51t-tdbxkamptv.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\4np8wproef-j5mq2jizvt.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\2u5td7z7qq-06098lyss8.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\75uzvr0vuf-nvvlpmu67g.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\9yo0rs2c0i-s35ty4nyc5.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\k8iel1lkq8-pj5nd1wqec.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\7rmkur7a09-46ein0sx1k.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\ugiw0ggzqd-v0zj4ognzu.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\ipzqwl0rlp-37tfw0ft22.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\ajuk927r41-hrwsygsryq.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\6sy8fsyycr-pk9g2wxc8p.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\yl5m8cqs5h-ft3s53vfgj.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\h377smrc1f-6cfz1n2cew.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\fws9oehq04-6pdc2jztkx.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\j95n367lry-493y06b0oq.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\ts70pw0xwx-iovd86k7lj.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\l8iywlt0bt-vr1egmr9el.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\1r6rnwo4o9-kbrnm935zg.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\xle7tec6xu-jj8uyg4cgr.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\wkyv12qiy6-y7v9cxd14o.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\44l57ri0cx-notf2xhcfb.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\kkjg2gbxp2-h1s4sie4z3.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\0ehcocztex-63fj8s7r0e.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\wqx7sz6xrw-0j3bgjxly4.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\imkqjr9dre-47otxtyo56.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\ir1le8w0tu-4v8eqarkd7.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\dlmafikt46-356vix0kms.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\g1v7tyli55-83jwlth58m.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\f7397rxnkl-mrlpezrjn3.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\v437tfwmfj-lzl9nlhx6b.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\ttmdnbfjl0-ag7o75518u.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\krcavlqfp3-x0q3zqp4vz.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\trzc83lffh-0i3buxo5is.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\0r5jgg8739-o1o13a6vjx.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\pzm9yvtxl0-ttgo8qnofa.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\1buozmc3i6-2z0ns9nrw6.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\ajp4hqtusp-muycvpuwrr.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\x3db7fcmdy-87fc7y1x7t.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\o7joiqj5st-mlv21k5csn.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\dar04gmz65-wuiwpoak6t.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\compressed\0x02w2od86-wuiwpoak6t.gz
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\staticwebassets.build.json
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\staticwebassets.development.json
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\staticwebassets\msbuild.Projeto MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\staticwebassets\msbuild.Projeto MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\staticwebassets\msbuild.build.Projeto MVC.props
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Projeto MVC.props
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Projeto MVC.props
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\Projeto MVC.dll
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\refint\Projeto MVC.dll
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\Projeto MVC.pdb
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\Projeto MVC.genruntimeconfig.cache
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\ref\Projeto MVC.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Azure.Core.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Azure.Identity.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Humanizer.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.ClientModel.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.CodeDom.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.Text.Json.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programação\Projetos C#\Projeto MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\Projeto MVC.csproj.AssemblyReference.cache
+D:\Programação\Projetos C#\Projeto MVC\obj\Debug\net9.0\Projeto .60FEEB6B.Up2Date
