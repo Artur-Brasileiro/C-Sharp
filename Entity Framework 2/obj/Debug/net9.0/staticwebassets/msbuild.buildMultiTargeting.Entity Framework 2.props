@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Entity Framework 2.props" />
+</Project>
