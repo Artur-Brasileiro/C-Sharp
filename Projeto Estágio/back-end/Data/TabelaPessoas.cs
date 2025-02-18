@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace back_end.Models
+namespace back_end.Data
 {
-    public class PessoaModel
+    public class TabelaPessoas
     {
         public int Id { get; set; }
 

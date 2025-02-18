@@ -2,34 +2,38 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using back_end.Dto.Transacao;
-using back_end.Models;
+using back_end.Dto;
 using back_end.Services.Transacao;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
 namespace back_end.Controllers
 {
-    public class TransacaoController
+    [ApiController]
+    [Route("api/[controller]")]
+    public class TransacaoController : ControllerBase
     {
-        private readonly ITransacaoInterface _transacaoInterface;
+        private readonly ITransacaoInterface transacaoInterface;
 
-        public TransacaoController(ITransacaoInterface transacaoInterface)
+        public TransacaoController(ITransacaoInterface TransacaoInterface)
         {
-            _transacaoInterface = transacaoInterface;
+            transacaoInterface = TransacaoInterface;
         }
 
-        [HttpGet("ListarTransações")]
-        public ResponseModel<List<TransacaoModel>> ListarTransacoes()
+        [HttpGet("Listar")]
+        public async Task<IActionResult> Listar()
         {
-            var transacoes = _transacaoInterface.ListarTransacoes();
-            return transacoes;
+            var transacao = await transacaoInterface.Listar();
+
+            return Ok(transacao);
         }
 
-        [HttpPost("CriarTransação")]
-        public ResponseModel<List<TransacaoModel>> CriarTransacao(TransacaoCriacaoDto transacaoCriacaoDto)
+        [HttpPost("Criar")]
+        public async Task<IActionResult> Criar(TransacaoCriacaoDto transacaoCriacaoDto)
         {
-            var transacao = _transacaoInterface.CriarTransacao(transacaoCriacaoDto);
-            return transacao;
+            var transacao = await transacaoInterface.Criar(transacaoCriacaoDto);
+
+            return Ok(transacao);
         }
     }
 }

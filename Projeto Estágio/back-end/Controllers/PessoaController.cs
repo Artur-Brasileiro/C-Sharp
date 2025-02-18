@@ -3,48 +3,52 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using back_end.Dto;
-using back_end.Dto.Pessoa;
 using back_end.Models;
 using back_end.Services.Pessoa;
 using Microsoft.AspNetCore.Mvc;
 
 namespace back_end.Controllers
 {
-    public class PessoaController
-    { 
-        private readonly IPessoaInterface _pessoaInterface;
-
-        public PessoaController(IPessoaInterface pessoaInterface)
+    [ApiController]
+    [Route("api/[controller]")]
+    public class PessoaController : ControllerBase
+    {
+        private readonly IPessoaInterface pessoaInterface;
+ 
+        public PessoaController(IPessoaInterface PessoaInterface)
         {
-            _pessoaInterface = pessoaInterface;
+            pessoaInterface = PessoaInterface;
         }
 
-        [HttpGet("ListarPessoas")]
-        public ResponseModel<List<PessoaModel>> ListarPessoas()
+        [HttpGet("Listar")]
+        public async Task<IActionResult> Listar()
         {
-            var pessoas = _pessoaInterface.ListarPessoas();
-            return pessoas;
+            var pessoas = await pessoaInterface.Listar();
+            
+            return Ok(pessoas);
         }
 
-        [HttpGet("ConsultarTotais")]
-        public ResponseModel<List<TotaisDto>> ConsultarTotais()
+        [HttpGet("ConsultarTotal")]
+        public async Task<IActionResult> ConsultarTotal()
         {
-            var totais = _pessoaInterface.ConsultarTotais();
-            return totais;
+            var total = await pessoaInterface.ConsultarTotal();
+            
+            return Ok(total);
         }
 
-        [HttpPost("CriarPessoa")]
-        public ResponseModel<List<PessoaModel>> CriarPessoa(PessoaCriacaoDto pessoaCriacaoDto)
+        [HttpPost("Criar")] 
+        public async Task<IActionResult> Criar(PessoaCriacaoDto pessoaCriacaoDto)
         {
-            var pessoas = _pessoaInterface.CriarPessoa(pessoaCriacaoDto);
-            return pessoas;
+            var pessoa = await pessoaInterface.Criar(pessoaCriacaoDto);
+            return Ok(pessoa);
         }
 
-        [HttpDelete("ExcluirPessoa")]
-        public ResponseModel<List<PessoaModel>> ExcluirPessoa(int id)
+        [HttpDelete("Excluir/{idPessoa}")]
+        public async Task<IActionResult> Excluir(int idPessoa)
         {
-            var pessoas = _pessoaInterface.ExcluirPessoa(id);
-            return pessoas;
+            var pessoa = await pessoaInterface.Excluir(idPessoa);
+
+            return Ok(pessoa);
         }
     }
 }

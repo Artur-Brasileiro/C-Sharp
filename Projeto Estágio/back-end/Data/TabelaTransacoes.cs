@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using back_end.Enums;
 
-namespace back_end.Models
-{ 
-    public class TransacaoModel
+namespace back_end.Data
+{
+    public class TabelaTransacoes
     {
         public int Id { get; set; }
 

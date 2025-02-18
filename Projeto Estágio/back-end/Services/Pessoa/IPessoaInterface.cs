@@ -3,16 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using back_end.Dto;
-using back_end.Dto.Pessoa;
-using back_end.Models; 
+using back_end.Models;
 
 namespace back_end.Services.Pessoa
-{
+{ 
     public interface IPessoaInterface
     {
-        ResponseModel<List<PessoaModel>> ListarPessoas();
-        ResponseModel<List<PessoaModel>> CriarPessoa(PessoaCriacaoDto pessoaCriacaoDto);
-        ResponseModel<List<PessoaModel>> ExcluirPessoa(int idPessoa);
-        ResponseModel<List<TotaisDto>> ConsultarTotais();
+        public Task<ResponseModel<List<PessoaModel>>> Listar();
+        public Task<ResponseModel<PessoaModel>> Criar(PessoaCriacaoDto pessoaCriacaoDto);
+        public Task<ResponseModel<PessoaModel>> Excluir(int idPessoa);
+        public Task<ResponseModel<List<TotalDto>>> ConsultarTotal();
     }
 }
